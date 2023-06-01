@@ -3,10 +3,10 @@ RAHUL-HACKER-HACKER/RAHUL-HACKER-HACKER is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 ![logo](https://github.com/RAHUL-HACKER-HACKER/images/blob/master/hacker.gif)
+
+<img align="right" alr="coding" width="300" height="300" src="https://github.com/RAHUL-HACKER-HACKER/images/blob/master/hacker2.png"></img>
+
 # 💫 About Me:
-
-<img align="right" alr="coding" width="300" height="200" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHMVaCBaRhiU/v0/-999x-999.gif"></img>
-
 🔭 I’m currently working on android app development<br>👯 I’m looking to collaborate on software department<br>🤝 I’m looking for help with android development<br>🌱 I’m currently learning java and flutter.<br>💬 Ask me about software developer<br>⚡ Fun fact success is way of new life.
 
 
